@@ -1,4 +1,4 @@
-import type { LocalBusiness, Organization, WithContext } from "schema-dts";
+import type { Organization } from "schema-dts";
 
 export function getOrganizationSchema(): LocalBusiness {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL;
