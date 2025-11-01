@@ -1,6 +1,6 @@
 import React from "react";
 
-import { FolderKanbanIcon, KeyIcon, LightbulbIcon, PencilRulerIcon, SearchIcon } from "lucide-react";
+import { FolderKanbanIcon, KeyIcon, LightbulbIcon, SearchIcon } from "lucide-react";
 
 import { ContentWrapper } from "@/components/content-wrapper";
 import { SectionHeader } from "@/components/section-header";
