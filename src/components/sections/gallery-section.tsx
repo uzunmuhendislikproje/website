@@ -14,7 +14,6 @@ import { cn } from "@/lib/utils";
 const galleryItems: { imagePath: string; description: string; title: string }[] = [
   { imagePath: "/gallery/image1.jpg", title: "", description: "" },
   { imagePath: "/gallery/image2.jpg", title: "", description: "" },
-  { imagePath: "/gallery/image3.jpg", title: "", description: "" },
   { imagePath: "/gallery/image4.jpg", title: "", description: "" },
   { imagePath: "/gallery/image5.jpg", title: "", description: "" },
   { imagePath: "/gallery/image6.jpg", title: "", description: "" },
@@ -22,6 +21,7 @@ const galleryItems: { imagePath: string; description: string; title: string }[] 
   { imagePath: "/gallery/image8.jpg", title: "", description: "" },
   { imagePath: "/gallery/image9.jpg", title: "", description: "" },
   { imagePath: "/gallery/image10.jpg", title: "", description: "" },
+  { imagePath: "/gallery/image11.jpg", title: "", description: "" },
 ];
 
 function GallerySection() {
