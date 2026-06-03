@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     template: "%s - Uzun Mühendislik",
     default: "Uzun Mühendislik",
   },
+  icons: {
+    icon: "/images/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }: Pick<WrapperProps, "children">) {
