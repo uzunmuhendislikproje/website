@@ -21,7 +21,7 @@ const galleryItems: { imagePath: string; description: string; title: string }[] 
   { imagePath: "/gallery/image8.jpg", title: "", description: "" },
   { imagePath: "/gallery/image9.jpg", title: "", description: "" },
   { imagePath: "/gallery/image10.jpg", title: "", description: "" },
-  { imagePath: "/gallery/image11.jpg", title: "", description: "" },
+  { imagePath: "/gallery/image11.jpeg", title: "", description: "" },
 ];
 
 function GallerySection() {
